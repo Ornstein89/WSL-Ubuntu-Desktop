@@ -1,0 +1,3 @@
+#!/bin/sh
+unset SESSION_MANAGER
+startxfce4 & xfconf-query -c xfce4-keyboard-shortcuts -p /xfwm4/custom/'<'Super'>'Tab -r
