@@ -7,7 +7,7 @@ Based on following tutorials:
 * [How to Install VNC on Ubuntu 18.04 & 16.04 (Windows, Linux and Mac)](https://devanswers.co/install-vnc-ubuntu-18-04-windows-mac-linux/),
 * [VNCserver setup on Ubuntu](https://www.scivision.dev/vncserver-setup-on-ubuntu/)
 
-Currently uses lightweight XFCE4 desktop.
+Currently uses lightweight XFCE4 desktop. Requires at least 800Mb of free space on host machine.
 
 To start X Window remote session:
 * Install X Window client on Windows 10 host, like [VcXsrv](https://sourceforge.net/projects/vcxsrv/) or some 
