@@ -1,7 +1,7 @@
 # WSL-Ubuntu-Desktop
 Starts desktop on [WSL Ubuntu](https://github.com/microsoft/WSL) (Windows 10) and setup remote VNC or, alternatively, X Window remote session.
 
-<img src="Img/VNCcapture.PNG" width=400> <img src="Img/XWinCapture.PNG" width=400>
+<img src="Img/VNCcapture.PNG" height=200> <img src="Img/XWinCapture.PNG" height=200>
 
 Based on following tutorials:
 * [How to Install VNC on Ubuntu 18.04 & 16.04 (Windows, Linux and Mac)](https://devanswers.co/install-vnc-ubuntu-18-04-windows-mac-linux/),
