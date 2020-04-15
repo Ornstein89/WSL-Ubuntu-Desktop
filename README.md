@@ -22,4 +22,4 @@ other.
 other.
 * Clone this repo to `~/` within WSL.
 * Launch `./XFCE4_through_VNC.sh` from repository folder in WSL terminal.
-* Try to connetc with VNC Viewer on host Win10 to VNC at `localhost:5901` or `127.0.0.1:5901`.
+* Try to connetc with VNC Viewer on host Win10 to VNC stream at `localhost:5901` or `127.0.0.1:5901`.
