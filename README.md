@@ -1,5 +1,5 @@
 # WSL-Ubuntu-Desktop
-Starts desktop on WSL Ubuntu (Windows 10) and setup remote VNC or, alternatively, X Window remote session.
+Starts desktop on [WSL Ubuntu](https://github.com/microsoft/WSL) (Windows 10) and setup remote VNC or, alternatively, X Window remote session.
 
 <img src="Img/VNCcapture.PNG" width=300> <img src="Img/XWinCapture.PNG" width=300>
 
