@@ -9,7 +9,7 @@ Based on following tutorials:
 
 Currently uses lightweight XFCE4 desktop. Requires at least 800Mb of free space on host machine.
 
-To start X Window remote session:
+## To start X Window remote session:
 * Install X Window client on Windows 10 host, like [VcXsrv](https://sourceforge.net/projects/vcxsrv/) or some 
 other.
 * Setup `display number` parameter equal to 1 in X Windows client.
@@ -17,7 +17,7 @@ other.
 * Clone this repo to `~/` within WSL.
 * Launch `./XFCE4_through_XWin.sh` from repository folder in WSL terminal.
 
-To start VNC session:
+## To start VNC session:
 * Install some VNC viewer on Windows 10 host, like [RealVNC VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) or some 
 other.
 * Clone this repo to `~/` within WSL.
