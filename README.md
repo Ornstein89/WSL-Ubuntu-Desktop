@@ -14,12 +14,12 @@ To start X Window remote session:
 other.
 * Setup `display number` parameter equal to 1 in X Windows client.
 * Start X Windows client session on host Win10.
-* Clone this repo to '~/' within WSL.
+* Clone this repo to `~/` within WSL.
 * Launch `./XFCE4_through_XWin.sh` from repository folder in WSL terminal.
 
 To start VNC session:
 * Install some VNC viewer on Windows 10 host, like [RealVNC VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) or some 
 other.
-* Clone this repo to '~/' within WSL.
+* Clone this repo to `~/` within WSL.
 * Launch `./XFCE4_through_VNC.sh` from repository folder in WSL terminal.
 * Try to connetc with VNC Viewer on host Win10 to VNC at `localhost:5901` or `127.0.0.1:5901`.
