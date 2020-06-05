@@ -15,7 +15,7 @@ other.
 * Setup `display number` parameter equal to 1 in X Windows client.
 * Start X Windows client session on host Win10.
 * Clone this repo to `~/` within WSL.
-* Launch `./XFCE4_through_XWin.sh` from repository folder in WSL terminal.
+* Launch `./XFCE4_through_XWin.sh` from repository folder in WSL terminal. First time it takes 1-2 minutes to install xfce4.
 
 ## To start VNC session:
 * Install some VNC viewer on Windows 10 host, like [RealVNC VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) or some 
