@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # WSL-Ubuntu-Desktop
 Starts graphical desktop on [WSL](https://github.com/microsoft/WSL) Ubuntu (on Windows 10) and setup VNC or, alternatively, X Window remote session.
 
