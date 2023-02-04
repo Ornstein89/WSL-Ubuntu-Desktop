@@ -1,6 +1,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# WSL-Ubuntu-Desktop
+# Update 2023
+
+With latest November 2022 update (see [Run Linux GUI apps on the Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)) WSL can start GUI apps natively, and you don't need any external VNC or X11 clients anymore. **This makes the repository outdated**. Just run
+
+```cmd
+wsl --update
+wsl --shutdown
+```
+
+then restart WSL, install and run any GUI app (Geany, for example)
+![image](https://user-images.githubusercontent.com/26321368/216776049-60ecab8f-24d9-4bfd-85ae-5e809088c2a5.png)
+
+# WSL-Ubuntu-Desktop (deprecated)
 Starts graphical desktop on [WSL](https://github.com/microsoft/WSL) Ubuntu (on Windows 10) and setup VNC or, alternatively, X Window remote session.
 
 <img src="Img/VNCcapture.PNG" height=200> <img src="Img/XWinCapture.PNG" height=200>
